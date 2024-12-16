@@ -1,1 +1,1 @@
-- 👋 Hey, I'm J.D.
+Hey, I'm JD. Welcome to my Github.
